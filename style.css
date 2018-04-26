@@ -1,0 +1,44 @@
+*{
+    font-family: "Roboto Slab", Georgia, monospace;
+    color: #000;
+}
+
+body{
+    background: #faffff;
+}
+
+h1{
+    margin: 0% 30%;
+    text-align: center;
+}
+
+h2{
+    margin: 0% 40%;
+    text-align: center;
+}
+
+h3{
+    margin: 0% 30%;
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    padding: 0px 10px;
+    text-align: justify;
+}
+
+#photo{
+    float: left;
+    width: 10%;
+}
+
+#photo-text{
+    float: left;
+    width: 90%;
+}
+
+#textao{
+    text-indent: 4em;
+}
+
